@@ -44,10 +44,12 @@ Language Studio customizable features
 The Language service also offers multiple features that let you create, train, and deploy custom models to better fit your data. For example, custom content classification and custom question answering. For features with customization, Language Studio offers workflows that let developers and subject matter experts build models without needing machine learning expertise.
 
 output 
-![kavitha0123-bot _ Microsoft Teams and 3 more pages - Personal - Microsoft​ Edge 11-10-2022 20_44_15 (2)](https://user-images.githubusercontent.com/112709511/195131365-c5688480-fcc2-4fa8-98cc-8f7f0ba6dd5c.png)
+![priyanka-bot _ Microsoft Teams 18-10-2022 08_02_17](https://user-images.githubusercontent.com/112069856/196321977-82a062ab-6f1d-4faf-aa56-91e29c26dbcd.png)
+
 
 output
-![kavitha0123-bot - Microsoft Azure and 3 more pages - Personal - Microsoft​ Edge 11-10-2022 20_45_27 (1)](https://user-images.githubusercontent.com/112709511/195131811-c4af9c7e-6ff2-4acc-b600-66a3b7504561.png)
+![priyanka-bot - Microsoft Azure - Google Chrome 18-10-2022 08_01_39](https://user-images.githubusercontent.com/112069856/196321946-999dbca2-afa9-4ff4-bc1e-4c998bc9e205.png)
+
 
 
 
